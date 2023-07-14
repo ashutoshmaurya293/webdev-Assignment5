@@ -1,0 +1,28 @@
+Q.1 What’s difference between Synchronous and Asynchronous? 
+Answer: Asynchronous is multi-threaded which means operations or programs can run in parallel and Synchronous is single-threaded, so only one operation or program will run at a time
+Q.2 What are Web Apis ?
+Answer: Web API is an application programming interface for the Web and It is a programmatic interface to extend functionality within a web browser or other HTTP client
+Q.3 Explain SetTimeOut and setInterval ?
+Answer: setTimeout is a method that delays the execution of a function and setTimeout is a method that delays the execution of a function by a specified number of milliseconds
+Q.4 how can you handle Async code in JavaScript ?
+Answer: using a callback to hamdle Async callback is a function that is passed as an argument to another function and is executed
+Q.5 What are Callbacks &  Callback Hell ?
+Answer: callback is a function that is passed as an argument to another function and is executed and Callback Hell is a term used to describe the situation where you have a lot of nested callbacks in your code
+Q.6 What are Promises & Explain Some Three Methods of Promise
+Answer: a Promise is an object that represents the eventual completion task and reyurning a value
+1.then() - This method is used to handle the success case of a Promise.
+2. catch() - This method is used to handle the failure case of a Promise.
+3.finally() - This method is used to execute code after a Promise has been resolved or rejected
+Q.7 What’s async & await Keyword in JavaScript
+Answer: async and await is a way to write asynchronous code The async keyword is used to define an asynchronous function and An asynchronous function is a function that returns a Promise and The await keyword is used to wait for a Promise to resolve before continuing execution of the code.
+Q.8 Explain Purpose of Try and Catch Block & Why do we need it?
+Answer: to handle errors we can try and catch We need try and catch blocks because they allow us to handle errors in a way that doesn’t crash our program
+Q.9 Explain fetch
+Answer: Fetch is a method in JavaScript that is used to make network requests and It is used to fetch resources from the network and such as HTML files and images and JSON data etc
+Q.10 How do you define an asynchronous function in JavaScript using async/await?
+Answer: the async keyword tells JavaScript that this function is asynchronous and will return aPromise
+ 
+
+
+
+
